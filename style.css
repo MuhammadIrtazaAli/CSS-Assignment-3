@@ -1,0 +1,22 @@
+html{
+    font-family: ui-sans-serif, system-ui, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji
+}
+body{
+    background-color:gray ;
+}
+h1{
+    text-align: center;
+    background-color:lightskyblue;
+    color: rgb(41, 41, 102);
+}
+h2{
+    text-align: right;
+    background-color: lightgreen;
+    text-decoration: underline;
+}
+h2 u{
+    opacity: 0.6;
+}
+ul{
+    color: white;
+}
